@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I’m Walls (`walls9919`)
 
-<!--
-**walls9919/walls9919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Passionate about **FiveM development**, **Lua**, and open source contributions.
 
-Here are some ideas to get you started:
+📍 Based in **Estonia**  
+🛠️ Developer focused on QB-Core, and Over Extended project. 
+📫 Feel free to connect or reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I enjoy building and contributing to game-related scripts and resources — particularly for FiveM. My work often revolves around server enhancements, UI improvements, and gameplay mechanics. I’m always learning and experimenting with new tools and frameworks.
+
+---
+
+## 💻 What I Work On
+
+Here’s a snapshot of the type of projects I’m involved in:
+
+### 🧩 Notable Repositories
+Here are some projects in my GitHub that I’ve developed:
+
+- **FiveM Resources**
+  - `ws_weapons`: Standalone weapon damage and recoil resource (Lua)
+  - `ws_logs`: Discord logging for FiveM servers (Lua)
+
+- **Other Contributions**
+  - Added **Estonian translations** to countless FiveM projects.
+
+---
+
+## 💡 Skills & Tools
+
+- **Languages:** Lua, TypeScript, HTML  
+- **Platforms:** FiveM
+- **Focus Areas:** Gameplay systems, UI components, server utilities
+
+---
+
+## 📫 Connect With Me
+
+Let’s collaborate!  
+You can also reach me through GitHub discussions, social links in my profile, or by starring/following my projects.
+
+Looking forward to building great things together! 🚀
